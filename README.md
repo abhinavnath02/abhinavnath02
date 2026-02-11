@@ -1,4 +1,6 @@
 # 💫 About Me:
+![download (6)](https://github.com/user-attachments/assets/47c60223-85da-421e-9a87-aa230c134435)
+
 🎓 BTech Computer Science student (Class of 2027)<br><br>💻 Passionate web developer focused on building clean, user-centered digital experiences<br><br>🧠 Interested in AI, NLP, and machine learning research<br><br>🎨 Strong appreciation for UI/UX and interactive design<br><br>🚀 Always building projects that combine technical depth with real-world impact
 
 
