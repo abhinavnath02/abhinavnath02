@@ -1,4 +1,5 @@
-# 💫 About Me:
+# About Me:
+![Best Phone Wallpapers_ Complete Guide to Styles, Design, and Trends” - Fascinate Names](https://github.com/user-attachments/assets/6a33b5e0-db07-4cc5-879e-5d0993804f46)
 
 🎓 BTech Computer Science student (Class of 2027)<br><br>💻 Passionate web developer focused on building clean, user-centered digital experiences<br><br>🧠 Interested in AI, NLP, and machine learning research<br><br>🎨 Strong appreciation for UI/UX and interactive design<br><br>🚀 Always building projects that combine technical depth with real-world impact
 
